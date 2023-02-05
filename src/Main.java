@@ -8,6 +8,6 @@ public class Main {
                 "officia deserunt mollit anim id est laborum.";
 
         WordChecker wC = new WordChecker(s);
-        System.out.println("Имеется ли данное слово в тексте: " + wC.hasWord("ex"));
+        System.out.println("Имеется ли данное слово в тексте: " + wC.hasWord("enim"));
     }
 }
